@@ -73,6 +73,11 @@ OTP + 디바이스 기반 인증 시스템 개발
 
 ---
 
+## 📄 Research & Publication
+- 한국통신학회 추계학술대회 (2025)
+  - Zero Trust 기반 인증 시스템 연구
+  - OTP + 디바이스 인증 구조 설계 및 보안 강화 방안 제시
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=youyongsang&show_icons=true&theme=tokyonight"/>
