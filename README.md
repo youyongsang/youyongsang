@@ -32,4 +32,4 @@
 ---
 
 ## 📫 Contact
-- 📧 이메일: (여기에 이메일)
+- 📧 yongsang0615@gmail.com
